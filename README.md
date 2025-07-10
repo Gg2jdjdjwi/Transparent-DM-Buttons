@@ -37,6 +37,9 @@ Scroll down to find `Vencord → Themes`:
 - Click on **"Open Theme Folder"**.
 - A folder will pop up.
 - Drag any `.theme.css` or custom `.css` file you downloaded into that folder.
+  
+<img width="1283" height="891" alt="image" src="https://github.com/user-attachments/assets/c5a243a8-cfd1-4aec-ab1a-3f74bda3b797" />
+
 - Go back to Discord and **toggle the theme ON**.
 
 <img width="696" height="282" alt="Theme Folder Example" src="https://github.com/user-attachments/assets/feb76e76-dc0d-4861-a883-e3486df52376" />
