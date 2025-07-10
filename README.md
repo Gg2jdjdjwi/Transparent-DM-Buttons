@@ -6,10 +6,27 @@ Customize your Discord experience with beautiful CSS themes using **Vencord** an
 
 ## 🧩 Vencord Setup
 
-### 🎨 2. Install a Vencord Theme
+### 🎨 2. Install a Vencord Theme and Custom CSS file
 
-#### 📥 Step 1: Download a `.theme.css` file
-You can find themes at [https://vencordthemes.github.io](https://vencordthemes.github.io) or from any trusted source.
+#### 📥 Step 1: Download a `.theme.css` or any custom css file
+
+You can find high-quality themes and CSS snippets from the following trusted sources:
+
+- 🎨 [VSThemes](https://vsthemes.org/en/skins/discord/)
+- 🎨 [BetterDiscord Themes](https://betterdiscord.app/themes)
+- 🎨 [BDEditor Themes](https://bdeditor.dev)
+- 🧩 [My Custom CSS Collection (Verified)](https://github.com/Gg2jdjdjwi)
+
+> For custom CSS files, you can safely download from my GitHub repository above. These are either self-made or verified, and used widely across the community.  
+> ⚠️ Always use themes at your own risk, especially if obtained from outside official communities.
+
+---
+
+### 💬 Discord Support Servers
+
+- 🧠 Vencord: [https://discord.gg/Kb3rkBFx](https://discord.gg/Kb3rkBFx)
+- 🛠️ BetterDiscord: [https://discord.com/invite/0Tmfo5ZbORCRqbAd](https://discord.com/invite/0Tmfo5ZbORCRqbAd)
+- 🧪 BDEditor.dev: [https://discord.com/invite/ZHthyCw](https://discord.com/invite/ZHthyCw)
 
 ---
 
@@ -60,3 +77,42 @@ Scroll down to find `Vencord → Themes`:
 
 ---
 
+## 🧩 BetterDiscord Setup
+
+### 🎨 2. Install a BetterDiscord Theme and Custom CSS file
+
+#### 🔧 Step 1: Install BetterDiscord
+
+- 🌐 Go to the official website: [https://betterdiscord.app](https://betterdiscord.app)
+- 📥 Download and run the installer.
+- 💾 Select your Discord version during setup.
+- 🔁 Restart Discord after the installation is complete.
+
+#### 📥 Step 2: Download a `.theme.css` or any custom css file
+
+You can find high-quality themes and CSS snippets from the following trusted sources:
+
+- 🎨 [VSThemes](https://vsthemes.org/en/skins/discord/)
+- 🎨 [BetterDiscord Themes](https://betterdiscord.app/themes)
+- 🎨 [BDEditor Themes](https://bdeditor.dev)
+- 🧩 [My Custom CSS Collection (Verified)](https://github.com/Gg2jdjdjwi)
+
+> For custom CSS files, you can safely download from my GitHub repository above. These are either self-made or verified, and used widely across the community.  
+> ⚠️ Always use themes at your own risk, especially if obtained from outside official communities.
+
+---
+
+### 💬 Discord Support Servers
+
+- 🧠 Vencord: [https://discord.gg/Kb3rkBFx](https://discord.gg/Kb3rkBFx)
+- 🛠️ BetterDiscord: [https://discord.com/invite/0Tmfo5ZbORCRqbAd](https://discord.com/invite/0Tmfo5ZbORCRqbAd)
+- 🧪 BDEditor.dev: [https://discord.com/invite/ZHthyCw](https://discord.com/invite/ZHthyCw)
+
+---
+
+#### ⚙️ Step 3: Open Discord Settings
+Go to your Discord settings by clicking the gear icon:
+
+<img width="319" height="113" alt="Discord Settings" src="https://github.com/user-attachments/assets/b8ebeed6-f50a-4b46-a92e-be540f49cd8b" />
+
+---
