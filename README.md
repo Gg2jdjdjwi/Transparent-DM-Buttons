@@ -23,7 +23,7 @@ You can find high-quality themes and CSS snippets from the following trusted sou
 - 🧩 [My Custom CSS Collection (Verified)](https://github.com/Gg2jdjdjwi)
 
 > For custom CSS files, you can safely download from my GitHub repository above. These are either self-made or verified, and used widely across the community.  
-> ⚠️ Always use themes at your own risk, especially if obtained from outside official communities.
+> ⚠️ Always use themes at your own risk, especially if obtained from outside official communities discord server.
 
 ---
 
