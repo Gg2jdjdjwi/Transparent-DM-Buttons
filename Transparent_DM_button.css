@@ -1,0 +1,21 @@
+/**
+ * @name: Transparent DM button
+ * @author: AcheronX.
+ * @description: Make dm button transparent fit with theme.
+ * @version: 0.0.1
+ * @source: https://github.com/Gg2jdjdjdwi
+ */
+
+/* Button default state - transparent background */
+.actionButton_f8fa06 {
+  background-color: rgba(18, 36, 116, 0.349) !important;  
+  border: none !important;
+  box-shadow: none !important;
+  transition: background-color 0.3s, opacity 0.3s !important;  
+}
+
+/* Button hover state - transparent with slight opacity */
+.actionButton_f8fa06:hover {
+  background-color: rgb(32, 34, 136) !important;  
+  opacity: 0.7 !important; 
+}
