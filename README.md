@@ -132,3 +132,10 @@ Go to your Discord settings by clicking the gear icon:
 <img width="319" height="113" alt="Discord Settings" src="https://github.com/user-attachments/assets/b8ebeed6-f50a-4b46-a92e-be540f49cd8b" />
 
 ---
+
+#### 🖌️ Step 3: Navigate to the Themes Section
+Scroll down to find `BetterDiscord → Themes`:
+
+<img width="1232" height="1092" alt="image" src="https://github.com/user-attachments/assets/ac1d6b18-6bfe-421c-8273-6dbb0c4f521a" />
+
+---
