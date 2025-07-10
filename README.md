@@ -139,3 +139,16 @@ Scroll down to find `BetterDiscord → Themes`:
 <img width="1232" height="1092" alt="image" src="https://github.com/user-attachments/assets/ac1d6b18-6bfe-421c-8273-6dbb0c4f521a" />
 
 ---
+
+#### 🧾 Step 4: In the Theme Section, You Have 2 Options:
+
+<img width="1180" height="1283" alt="image" src="https://github.com/user-attachments/assets/03cd8a75-7eb0-4498-a9ae-1fa1ef8bf83a" />
+
+---
+
+##### 📂 Option 1: **Open Theme Folder**
+- Click on **"Open Theme Folder"**.
+- A folder will pop up.
+- Drag any `.theme.css` or custom `.css` file you downloaded into that folder.
+  
+<img width="1283" height="891" alt="image" src="https://github.com/user-attachments/assets/c5a243a8-cfd1-4aec-ab1a-3f74bda3b797" />
