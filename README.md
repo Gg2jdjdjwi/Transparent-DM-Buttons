@@ -148,7 +148,31 @@ Scroll down to find `BetterDiscord → Themes`:
 
 ##### 📂 Option 1: **Open Theme Folder**
 - Click on **"Open Theme Folder"**.
+
+<img width="1202" height="803" alt="image" src="https://github.com/user-attachments/assets/90d03750-3452-4611-ad2b-7eaf71c89eed" />
+
 - A folder will pop up.
 - Drag any `.theme.css` or custom `.css` file you downloaded into that folder.
+
+<img width="1377" height="1147" alt="image" src="https://github.com/user-attachments/assets/0ff22981-39c6-42e2-9341-00cdc1faba77" />
+
+- Go back to Discord and **toggle the theme ON**.
+
+<img width="803" height="431" alt="image" src="https://github.com/user-attachments/assets/2b96cf8f-c25a-403a-9cca-c41560c6547c" />
+
+##### ⚡ Option 2: **Edit Quick CSS**
+- Click **"Custom CSS"**.
+- A new gray box will appear like this:
+
+<img width="1157" height="1122" alt="image" src="https://github.com/user-attachments/assets/4ab9353e-3ed7-4871-9da6-91c513baf89d" />
+
+- Copy any CSS code from a GitHub page or another source and paste it into the box.
+- Turn Live Update on and the changes will apply instantly — no restart needed! ✅
+
+<img width="1122" height="760" alt="image" src="https://github.com/user-attachments/assets/f677c4f1-8d97-4e3c-ac4e-e6ba9095105c" />
+
+---
+
+
+
   
-<img width="1283" height="891" alt="image" src="https://github.com/user-attachments/assets/c5a243a8-cfd1-4aec-ab1a-3f74bda3b797" />
