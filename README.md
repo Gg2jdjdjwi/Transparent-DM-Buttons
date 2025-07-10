@@ -1,4 +1,4 @@
-# 🎨 How to Install CSS Themes on Vencord & BetterDiscord
+# 🎨 How to Install CSS Themes and Custom CSS files on Vencord & BetterDiscord
 
 Customize your Discord experience with beautiful CSS themes using **Vencord** and **BetterDiscord**. This guide shows you how to install full themes and use Quick CSS for fast tweaks! 💻✨
 
