@@ -10,6 +10,14 @@ Customize your Discord experience with beautiful CSS themes using **Vencord** an
 
 ### 🔧 Install Vencord
 - 📥 Download the installer from [https://vencord.dev](https://vencord.dev)
+
+- Choose your platform to install Vencord:
+  - 🪟 **Windows**: [Download for Windows](https://vencord.dev/install)
+  - 🐧 **Linux**: [Download for Linux](https://vencord.dev/install)
+  - 🍎 **Mac**: [Download for macOS](https://vencord.dev/install)
+  - 🌐 **Browser Version** *(Replugged alternative)*: [Use in Browser](https://vencord.dev/browser)
+
+> Visit the official site: [https://vencord.dev](https://vencord.dev) for the latest installers and instructions.
 - 🚀 Run the installer and select your installed Discord version.
 - ✅ Restart Discord after installation.
 
