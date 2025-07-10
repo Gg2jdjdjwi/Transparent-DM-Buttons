@@ -55,5 +55,8 @@ Scroll down to find `Vencord → Themes`:
 - Copy any CSS code from a GitHub page or another source and paste it into the box.
 - The changes will apply instantly — no restart needed! ✅
 
+<img width="1036" height="720" alt="image" src="https://github.com/user-attachments/assets/694c3177-3489-494d-bdbd-560c41e164bb" />
+
+
 ---
 
