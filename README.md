@@ -6,9 +6,14 @@ Customize your Discord experience with beautiful CSS themes using **Vencord** an
 
 ## 🧩 Vencord Setup
 
-### 🎨 2. Install a Vencord Theme and Custom CSS file
+### 🎨 1. Install a Vencord Theme and Custom CSS file
 
-#### 📥 Step 1: Download a `.theme.css` or any custom css file
+### 🔧 Install Vencord
+- 📥 Download the installer from [https://vencord.dev](https://vencord.dev)
+- 🚀 Run the installer and select your installed Discord version.
+- ✅ Restart Discord after installation.
+
+##### 📥 Step 1: Download a `.theme.css` or any custom css file
 
 You can find high-quality themes and CSS snippets from the following trusted sources:
 
@@ -81,14 +86,14 @@ Scroll down to find `Vencord → Themes`:
 
 ### 🎨 2. Install a BetterDiscord Theme and Custom CSS file
 
-#### 🔧 Step 1: Install BetterDiscord
+#### 🔧 Install BetterDiscord
 
 - 🌐 Go to the official website: [https://betterdiscord.app](https://betterdiscord.app)
 - 📥 Download and run the installer.
 - 💾 Select your Discord version during setup.
 - 🔁 Restart Discord after the installation is complete.
 
-#### 📥 Step 2: Download a `.theme.css` or any custom css file
+#### 📥 Step 1: Download a `.theme.css` or any custom css file
 
 You can find high-quality themes and CSS snippets from the following trusted sources:
 
@@ -110,7 +115,7 @@ You can find high-quality themes and CSS snippets from the following trusted sou
 
 ---
 
-#### ⚙️ Step 3: Open Discord Settings
+#### ⚙️ Step 2: Open Discord Settings
 Go to your Discord settings by clicking the gear icon:
 
 <img width="319" height="113" alt="Discord Settings" src="https://github.com/user-attachments/assets/b8ebeed6-f50a-4b46-a92e-be540f49cd8b" />
