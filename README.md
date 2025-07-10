@@ -17,7 +17,7 @@ Customize your Discord experience with beautiful CSS themes using **Vencord** an
 
 You can find high-quality themes and CSS snippets from the following trusted sources:
 
-- 🎨 [VSThemes (Kindly refresh page again when access denied)](https://vsthemes.org/en/skins/discord/)
+- 🎨 [VSThemes (kindly refresh page again when access denied by click the link and press enter)](https://vsthemes.org/en/skins/discord/)
 - 🎨 [BetterDiscord Themes](https://betterdiscord.app/themes)
 - 🎨 [BDEditor Themes](https://bdeditor.dev)
 - 🧩 [My Custom CSS Collection (Verified)](https://github.com/Gg2jdjdjwi)
@@ -97,7 +97,7 @@ Scroll down to find `Vencord → Themes`:
 
 You can find high-quality themes and CSS snippets from the following trusted sources:
 
-- 🎨 [VSThemes (Kindly refresh page again when access denied)](https://vsthemes.org/en/skins/discord/)
+- 🎨 [VSThemes (kindly refresh page again when access denied by click the link and press enter)](https://vsthemes.org/en/skins/discord/)
 - 🎨 [BetterDiscord Themes](https://betterdiscord.app/themes)
 - 🎨 [BDEditor Themes](https://bdeditor.dev)
 - 🧩 [My Custom CSS Collection (Verified)](https://github.com/Gg2jdjdjwi)
