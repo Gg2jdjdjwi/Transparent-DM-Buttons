@@ -104,9 +104,8 @@ Scroll down to find `Vencord → Themes`:
 
 - If you want easy step then copy this to Quick CSS:
 ```css
-@import url('https://raw.githubusercontent.com/Gg2jdjdjwi/Transparent-DM-Buttons-Discord/main/Transparent%20DM%20Button.css');
+@import url("https://raw.githubusercontent.com/acheronx0577/Better-Compact-Command-Menu-With-Smooth-Transition/refs/heads/main/Better%20Compact%20Command%20Menu%20With%20Smooth%20Transition.css");
 ```
-
 ---
 
 ## 🧩 BetterDiscord Setup
@@ -189,9 +188,8 @@ Scroll down to find `BetterDiscord → Themes`:
 
 - If you want easy step then copy this to Quick CSS:
 ```css
-@import url('https://raw.githubusercontent.com/Gg2jdjdjwi/Transparent-DM-Buttons-Discord/main/Transparent%20DM%20Button.css');
+@import url("https://raw.githubusercontent.com/acheronx0577/Better-Compact-Command-Menu-With-Smooth-Transition/refs/heads/main/Better%20Compact%20Command%20Menu%20With%20Smooth%20Transition.css");
 ```
-
 ---
 
 
